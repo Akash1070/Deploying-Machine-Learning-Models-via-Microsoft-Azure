@@ -41,12 +41,10 @@ from lightgbm import LGBMRegressor
 
 
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 import xgboost as xgb
 import cufflinks as cf
 import seaborn as sns
-import pickle 
 ```
     
 ## Running Flask Api
